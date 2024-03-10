@@ -1,0 +1,6 @@
+@net8_ef_scaffolding_models_HostAddress = http://localhost:5215
+
+GET {{net8_ef_scaffolding_models_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
